@@ -8,7 +8,7 @@
       "tags": "graphics,afpp",
       "version": 1,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-CaveChurch",
-      "isTemplate": false,
+      "isTemplate": true,
       "mediaFolder": "itsmagic/cavechurch",
       "thumbnail": "thumb.jpg",
       "images": [
