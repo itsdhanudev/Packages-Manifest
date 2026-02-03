@@ -4,9 +4,6 @@ Manifest for itsmagic package manager
 How to upload packages
 https://itsmagic.com.br/documentation/docs/marketplace-submit-package
 
-Change version.txt everytime a new package is added.
-ITsMagic cache the database locally and updates when version.txt changes.
-
 ## Automated Database Build (GitHub Actions)
 On every push to the `main` branch, a GitHub Actions workflow runs the build script and regenerates the database files.
 This ensures the published package list and version timestamp stay in sync with the latest manifests.
