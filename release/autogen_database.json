@@ -114,8 +114,25 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img6.png",
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img7.png"
       ],
-      "id": "758c7b1e-a56e-4b47-a1de-667c6c7401f4",
+      "id": "123bed93-1be6-439f-8d44-e94d79026de9",
       "userName": "Vitg1"
+    },
+    {
+      "titleB64": "VUkgZXhhbXBsZXM=",
+      "descriptionB64": "VmVyeSBuaWNlIGFuZCBjb29sZXIgVUkncw==",
+      "tags": "ui",
+      "version": 1,
+      "appMajorVersion": 1,
+      "repositoryURL": "https://github.com/malik-mohamed-2009/UI-examples",
+      "isTemplate": true,
+      "date": "07/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/ui-exp/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/ui-exp/img1.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/ui-exp/img2.jpg"
+      ],
+      "id": "75855a9f-bfee-45aa-b261-cb83a942c543",
+      "userName": "malik-mohamed"
     }
   ]
 }
