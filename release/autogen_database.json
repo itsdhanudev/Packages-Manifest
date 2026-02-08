@@ -169,6 +169,23 @@
       "userName": "malik-mohamed"
     },
     {
+      "titleB64": "RHluYW1pYyBJbnB1dCBLZXk=",
+      "descriptionB64": "U2ltcGxlLCBDYXN1YWwgS2V5IFN5c3RlbXMgd2l0aCBEb3VibGUgVGFwcywgUmVsZWFzZSwgZXRjLg==",
+      "tags": "ui,key",
+      "version": 1,
+      "appMajorVersion": 1,
+      "repositoryURL": "https://github.com/malik-mohamed-2009/input-key-itsmagic",
+      "isTemplate": false,
+      "date": "08/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/input-key/thumb.png",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/input-key/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/input-key/img2.png"
+      ],
+      "id": "8e584731-3583-44c8-9af4-fb11f520df1f",
+      "userName": "malik-mohamed"
+    },
+    {
       "titleB64": "VUkgZXhhbXBsZXM=",
       "descriptionB64": "VmVyeSBuaWNlIGFuZCBjb29sZXIgVUkncw==",
       "tags": "ui",
