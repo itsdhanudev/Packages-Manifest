@@ -8,15 +8,40 @@ on:
       - release/autogen_database.json
       - release/autogen_database.json.gz
       - release/autogen_version.txt
+  pull_request:
+    branches:
+      - main
+    paths-ignore:
+      - release/autogen_database.json
+      - release/autogen_database.json.gz
+      - release/autogen_version.txt
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
 
 jobs:
-  build:
-    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+  validate:
+    if: "!contains(github.event.head_commit.message || '', '[skip ci]')"
     runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build database
+        run: python tools/compiler/buildDatabase.py
+
+  build-and-open-pr:
+    if: github.event_name == 'push' && !contains(github.event.head_commit.message || '', '[skip ci]')
+    needs: validate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
