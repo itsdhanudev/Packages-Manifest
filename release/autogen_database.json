@@ -94,6 +94,182 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QmFycmVs",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel/img1.jpg"
+      ],
+      "id": "779a4849-953c-4c75-8395-cb4e5b144e6b",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QmFycmVs",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel10",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-10/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-10/img1.jpg"
+      ],
+      "id": "f373707b-3ae4-467c-9852-3590bf638913",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QmFycmVs",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel11",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-11/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-11/img1.jpg"
+      ],
+      "id": "65df6f4e-9d4b-4aeb-91c5-406110be0309",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QmFycmVs",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel2",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-2/img1.jpg"
+      ],
+      "id": "f1216caa-d851-41bb-a1ea-31a67edec1bc",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QmFycmVs",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel3",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-3/img1.jpg"
+      ],
+      "id": "c1bfb2be-13da-4fae-b6e5-55c6daf45590",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QmFycmVs",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel4",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-4/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-4/img1.jpg"
+      ],
+      "id": "bcaa6e78-1d51-4ab4-b85c-5929b4dd07f0",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QmFycmVs",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel5",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-5/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-5/img1.jpg"
+      ],
+      "id": "41e42381-0adc-456a-853c-325d53215055",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QmFycmVs",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel6",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-6/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-6/img1.jpg"
+      ],
+      "id": "a88c64fc-9a47-4374-9981-6949dd02d905",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QmFycmVs",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel7",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-7/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-7/img1.jpg"
+      ],
+      "id": "66a31c21-2b29-46fc-9cf9-b8c035b906f4",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QmFycmVs",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel8",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-8/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-8/img1.jpg"
+      ],
+      "id": "3176734b-5345-4333-bbd9-a4deb4e31b11",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QmFycmVs",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel9",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-9/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-9/img1.jpg"
+      ],
+      "id": "3fb804e2-e951-46d8-a564-a07dfbab0787",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "QmF5IENpdHkgKHdpdGggY2FyKQ==",
       "descriptionB64": "QSBjb21wbGV0ZSBjaXR5IHdpdGggYSBuaWNlIHBpY2t1cCBmb3IgZXhwbG9yYXRpb24u",
       "tags": "city,baycity",
@@ -610,6 +786,38 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "U3F1YXJlVG93ZWw=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNxdWFyZVRvd2Vs",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-SquareTowel",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/square-towel/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/square-towel/img1.jpg"
+      ],
+      "id": "e458f3b3-9044-4721-9f76-22dfbad4c582",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "U3F1YXJlVG93ZWw=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNxdWFyZVRvd2Vs",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-SquareTowel",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/squaretowel/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/squaretowel/img1.jpg"
+      ],
+      "id": "4e53775c-64b1-44f0-ac0e-9289739ed1b3",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "Q291bnRlcg==",
       "descriptionB64": "QXNzZXRzIHBhY2s6IENvdW50ZXI=",
       "tags": "props,assets,model,3d",
@@ -727,6 +935,38 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/tropical-island-v1/img4.png"
       ],
       "id": "f225f555-ffc0-458a-96ce-f87c4214c919",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "V29vZGVuUGFsbGV0",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlblBhbGxldA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenPallet",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-pallet/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-pallet/img1.jpg"
+      ],
+      "id": "39545597-cd27-4093-949b-6bbe789c75b5",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "V29vZGVuUGFsbGV0",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlblBhbGxldA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenPallet",
+      "isTemplate": false,
+      "date": "18/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/woodenpallet/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/woodenpallet/img1.jpg"
+      ],
+      "id": "7849caf8-d226-47cd-9df5-6fc4cd84c1c5",
       "userName": "ITsMagic"
     },
     {
