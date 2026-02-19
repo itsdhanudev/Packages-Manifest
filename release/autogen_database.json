@@ -841,7 +841,7 @@
     {
       "titleB64": "VHJhZmZpY1NpZ24=",
       "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWdu",
-      "tags": "props,assets,model,3d",
+      "tags": "graphics,assets,model",
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign",
